@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/UBA/Algoritmos y Programacion II/Trabajo Practicos/TP Final/Graph.h
+string
+-
+
+C:/UBA/Algoritmos y Programacion II/Trabajo Practicos/TP Final/main.cpp
+iostream
+-
+Graph.h
+C:/UBA/Algoritmos y Programacion II/Trabajo Practicos/TP Final/Graph.h
+
