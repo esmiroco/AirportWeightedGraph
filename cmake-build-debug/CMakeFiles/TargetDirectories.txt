@@ -1,3 +1,0 @@
-C:/UBA/Algoritmos y Programacion II/Trabajo Practicos/TP Final/cmake-build-debug/CMakeFiles/TP_Final.dir
-C:/UBA/Algoritmos y Programacion II/Trabajo Practicos/TP Final/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/UBA/Algoritmos y Programacion II/Trabajo Practicos/TP Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
